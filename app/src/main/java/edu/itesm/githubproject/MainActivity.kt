@@ -8,7 +8,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         print("Esto es funcionalidad 1.")
-        print("Hello there")
-        print("Yo soy la persona B")
     }
 }
